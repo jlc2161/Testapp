@@ -1,0 +1,9 @@
+--- 2025-08-05 18:25:03 ---
+Starting Savings: $100,000.00
+Monthly Contribution: $2,000.00
+Annual Spending Goal: $40,000.00
+Expected Return: 7.00%
+FIRE Number: $1,000,000.00
+FIRE Date Estimate: 15 years, 11 months
+Projected Final Savings: $1,006,254.27
+
